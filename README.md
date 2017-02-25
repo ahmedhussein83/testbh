@@ -6,7 +6,7 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Cloud9 yyyyyyyyyyy IDE!
+Hi there! Welcome to Cloud9 yyjkjlkjghjgjhyyy IDE!
 
 To get you started, we included a small hello world application.
 
